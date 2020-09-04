@@ -1,0 +1,11 @@
+{
+  "name": "shamalsjsonserver",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "json-server": "^0.16.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
