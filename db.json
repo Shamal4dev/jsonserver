@@ -9,7 +9,7 @@
       "id": 1,
       "noOfViews": 8,
       "category": "Food",
-      "filePath": "Bergeranddrink.jpg"
+      "filePath": "http://res.cloudinary.com/shammisgallery/image/upload/v1600280471/productInventory/bhm12xpzelayke0c5xts.jpg"
     },
     {
       "productName": "Digital SLR Camera",
@@ -20,7 +20,7 @@
       "id": 2,
       "noOfViews": 9,
       "category": "Electronics",
-      "filePath": "camera.jpg"
+      "filePath": "http://res.cloudinary.com/shammisgallery/image/upload/v1600280519/productInventory/v1xam3idocykerlq1nvs.jpg"
     },
     {
       "productName": "Fruit Salad",
@@ -31,7 +31,7 @@
       "id": 3,
       "noOfViews": 10,
       "category": "Food",
-      "filePath": "fruitSalad.jpg"
+      "filePath": "http://res.cloudinary.com/shammisgallery/image/upload/v1600280572/productInventory/vilnpvbelhvzwizwmfad.jpg"
     },
     {
       "productName": "Ice Cream with strawberry",
@@ -42,7 +42,7 @@
       "noOfViews": 5,
       "id": 5,
       "category": "Food",
-      "filePath": "icecream.jpg"
+      "filePath": "http://res.cloudinary.com/shammisgallery/image/upload/v1600280616/productInventory/ltc5ofknafowqhgwdfm1.jpg"
     },
     {
       "productName": "Sony Led TV",
@@ -53,7 +53,7 @@
       "noOfViews": 2,
       "id": 7,
       "category": "Electronics",
-      "filePath": "ledTv.jpg"
+      "filePath": "http://res.cloudinary.com/shammisgallery/image/upload/v1600280662/productInventory/lqftpp8vzdjslz870ucx.jpg"
     },
     {
       "productName": "One Plus",
@@ -64,7 +64,7 @@
       "noOfViews": 1,
       "id": 4,
       "category": "Electronics",
-      "filePath": "phone.jpg"
+      "filePath": "http://res.cloudinary.com/shammisgallery/image/upload/v1600280699/productInventory/ru92c5zsc8g8ry6piqrk.jpg"
     },
     {
       "productName": "Adidas Running shoe",
@@ -75,7 +75,7 @@
       "noOfViews": 3,
       "id": 6,
       "category": "Style",
-      "filePath": "shoes.jpg"
+      "filePath": "http://res.cloudinary.com/shammisgallery/image/upload/v1600280747/productInventory/yendfoiijc25wfqwqpwc.jpg"
     },
     {
       "productName": "Apple smart watch",
@@ -86,7 +86,7 @@
       "noOfViews": 3,
       "id": 8,
       "category": "Style",
-      "filePath": "smartwatch.jpg"
+      "filePath": "http://res.cloudinary.com/shammisgallery/image/upload/v1600280782/productInventory/fmwdxdpdu03ihlix1fwb.jpg"
     },
     {
       "productName": "Reebok T-Shirt",
@@ -97,7 +97,7 @@
       "noOfViews": 3,
       "id": 9,
       "category": "Style",
-      "filePath": "tshirt.jpg"
+      "filePath": "http://res.cloudinary.com/shammisgallery/image/upload/v1600280818/productInventory/lnqkkhvzjcsxvk5zlubh.jpg"
     }
   ],
   "users": [
