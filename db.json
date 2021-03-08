@@ -119,5 +119,86 @@
       "location": "kochi",
       "id": 2
     }
-  ]
+  ],
+  "employees":[
+    {
+      "id":"1230",
+      "name":"Arun",
+      "gender":"Male",
+      "skills":"Angular",
+      "project":"Cognizant Internal",
+      "HCM":"Alex"
+    },
+    {
+      "id":"1231",
+      "name":"Seetha",
+      "gender":"Female",
+      "skills":"Javascript",
+      "project":"Cognizant Internal",
+      "HCM":"Alex"
+    },
+    {
+      "id":"1232",
+      "name":"Kiran",
+      "gender":"Male",
+      "skills":"ReactJs",
+      "project":"Cognizant Internal",
+      "HCM":"Alex"
+    },
+    {
+      "id":"1233",
+      "name":"Ravi",
+      "gender":"Male",
+      "skills":"Asp",
+      "project":"Cognizant Internal",
+      "HCM":"Alex"
+    },
+    {
+      "id":"1234",
+      "name":"Remya",
+      "gender":"Female",
+      "skills":"Java",
+      "project":"Cognizant Internal",
+      "HCM":"Alex"
+    },
+    {
+      "id":"1235",
+      "name":"Santhosh",
+      "gender":"Male",
+      "skills":"MSSql",
+      "project":"Cognizant Internal",
+      "HCM":"Alex"
+    },
+    {
+      "id":"1236",
+      "name":"Reenu",
+      "gender":"Female",
+      "skills":"Oracle",
+      "project":"Cognizant Internal",
+      "HCM":"Alex"
+    },
+    {
+      "id":"1237",
+      "name":"Jackson",
+      "gender":"Male",
+      "skills":"Java",
+      "project":"Cognizant Internal",
+      "HCM":"Alex"
+    },
+    {
+      "id":"1238",
+      "name":"Ashwathi",
+      "gender":"Female",
+      "skills":"ReactJS",
+      "project":"Cognizant Internal",
+      "HCM":"Alex"
+    },
+    {
+      "id":"1239",
+      "name":"Albin",
+      "gender":"Male",
+      "skills":"AngularJS, ReactJS",
+      "project":"Cognizant Internal",
+      "HCM":"Alex"
+    }
 }
